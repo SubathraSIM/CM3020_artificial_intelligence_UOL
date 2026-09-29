@@ -1,4 +1,4 @@
-# CM3020 Artificial Intelligence = University of London
+# CM3020 Artificial Intelligence - University of London
 
 Coursework for **CM3020 Artificial Intelligence** (BSc Computer Science, University of London). The coursework has two parts: a research essay on game-playing AI, and a genetic algorithm that evolves simulated creatures to climb a mountain in PyBullet.
 
