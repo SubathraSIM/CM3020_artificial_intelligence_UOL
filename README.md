@@ -50,7 +50,7 @@ The starter fitness (straight-line distance) rewarded launching or wandering awa
 - **Motor-only:** body frozen from an elite genome, only motor genes mutate
 - **Motor-blended:** motor output blends pulse and sine waves instead of choosing one
 
-➡️ Baseline won clearly (avg best **83.5** vs ~25 for both motor-only variants). **Body structure matters more than control tuning** for climbing.
+Baseline won clearly (avg best **83.5** vs ~25 for both motor-only variants). **Body structure matters more than control tuning** for climbing.
 
 ### Extension: different landscapes
 The same GA settings were tested on **Hills** and **Valleys** terrains to check generalisation:
